@@ -43,4 +43,3 @@ group :test do
   gem "rspec-json_expectations", "~> 2.2"
 end
 
-
